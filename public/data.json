@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "team": "Fortune Barishal",
+    "category": "All-Rounder",
+    "price": 12.5,
+    "rating": 9.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Shakib_Al_Hasan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "team": "Fortune Barishal",
+    "category": "Batter",
+    "price": 11.5,
+    "rating": 9.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tamim_Iqbal.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "team": "Fortune Barishal",
+    "category": "Wicket-Keeper",
+    "price": 11.0,
+    "rating": 9.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mushfiqur_Rahim.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mehidy Hasan Miraz",
+    "team": "Fortune Barishal",
+    "category": "All-Rounder",
+    "price": 10.5,
+    "rating": 8.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mehidy_Hasan_Miraz.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mahmudullah Riyad",
+    "team": "Fortune Barishal",
+    "category": "All-Rounder",
+    "price": 9.5,
+    "rating": 8.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mahmudullah_Riyad.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "team": "Comilla Victorians",
+    "category": "Bowler",
+    "price": 10.5,
+    "rating": 8.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mustafizur_Rahman.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Litton Das",
+    "team": "Comilla Victorians",
+    "category": "Wicket-Keeper",
+    "price": 10.0,
+    "rating": 8.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Litton_Das.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Towhid Hridoy",
+    "team": "Comilla Victorians",
+    "category": "Batter",
+    "price": 8.5,
+    "rating": 8.1,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Towhid_Hridoy.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rishad Hossain",
+    "team": "Comilla Victorians",
+    "category": "All-Rounder",
+    "price": 8.0,
+    "rating": 7.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rishad_Hossain.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Taskin Ahmed",
+    "team": "Dhaka Dominators",
+    "category": "Bowler",
+    "price": 9.5,
+    "rating": 8.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taskin_Ahmed.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Najmul Hossain Shanto",
+    "team": "Dhaka Dominators",
+    "category": "Batter",
+    "price": 9.0,
+    "rating": 8.4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Najmul_Hossain_Shanto.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Soumya Sarkar",
+    "team": "Dhaka Dominators",
+    "category": "All-Rounder",
+    "price": 8.0,
+    "rating": 7.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Soumya_Sarkar.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Mosaddek Hossain",
+    "team": "Dhaka Dominators",
+    "category": "All-Rounder",
+    "price": 7.5,
+    "rating": 7.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mosaddek_Hossain.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Nasum Ahmed",
+    "team": "Dhaka Dominators",
+    "category": "Bowler",
+    "price": 7.0,
+    "rating": 7.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nasum_Ahmed.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Shoriful Islam",
+    "team": "Rangpur Riders",
+    "category": "Bowler",
+    "price": 8.5,
+    "rating": 8.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shoriful_Islam.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Nurul Hasan Sohan",
+    "team": "Rangpur Riders",
+    "category": "Wicket-Keeper",
+    "price": 8.0,
+    "rating": 7.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nurul_Hasan_Sohan.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Afif Hossain",
+    "team": "Rangpur Riders",
+    "category": "All-Rounder",
+    "price": 8.5,
+    "rating": 8.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Afif_Hossain.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Mahedi Hasan",
+    "team": "Rangpur Riders",
+    "category": "All-Rounder",
+    "price": 8.5,
+    "rating": 8.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mahedi_Hasan.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Ebadot Hossain",
+    "team": "Rangpur Riders",
+    "category": "Bowler",
+    "price": 7.5,
+    "rating": 7.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ebadot_Hossain.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Hasan Mahmud",
+    "team": "Sylhet Strikers",
+    "category": "Bowler",
+    "price": 7.5,
+    "rating": 7.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hasan_Mahmud.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Zakir Hasan",
+    "team": "Sylhet Strikers",
+    "category": "Batter",
+    "price": 7.0,
+    "rating": 7.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Zakir_Hasan.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Tanzid Hasan Tamim",
+    "team": "Sylhet Strikers",
+    "category": "Batter",
+    "price": 7.5,
+    "rating": 7.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanzid_Hasan_Tamim.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Rejaur Rahman Raja",
+    "team": "Sylhet Strikers",
+    "category": "Bowler",
+    "price": 6.5,
+    "rating": 7.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rejaur_Rahman_Raja.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Jaker Ali",
+    "team": "Sylhet Strikers",
+    "category": "Wicket-Keeper",
+    "price": 7.0,
+    "rating": 7.4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jaker_Ali.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Imrul Kayes",
+    "team": "Khulna Tigers",
+    "category": "Batter",
+    "price": 7.5,
+    "rating": 7.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Imrul_Kayes.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Anamul Haque Bijoy",
+    "team": "Khulna Tigers",
+    "category": "Wicket-Keeper",
+    "price": 8.0,
+    "rating": 7.8,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Anamul_Haque.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Nasir Hossain",
+    "team": "Khulna Tigers",
+    "category": "All-Rounder",
+    "price": 7.5,
+    "rating": 7.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nasir_Hossain.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Rubel Hossain",
+    "team": "Khulna Tigers",
+    "category": "Bowler",
+    "price": 7.0,
+    "rating": 7.3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rubel_Hossain.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Shanto Islam",
+    "team": "Chattogram Challengers",
+    "category": "Batter",
+    "price": 6.5,
+    "rating": 7.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shanto_Islam.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Nihaduzzaman",
+    "team": "Chattogram Challengers",
+    "category": "Bowler",
+    "price": 6.0,
+    "rating": 7.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nihaduzzaman.jpg"
+  }
+]
