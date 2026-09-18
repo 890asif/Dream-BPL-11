@@ -6,16 +6,16 @@
     "category": "All-Rounder",
     "price": 12.5,
     "rating": 9.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Shakib_Al_Hasan.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhinc41VuhyXESyyt9hpn3-z25Q1DAIyASe8Cq4u2xQ&s=10"
   },
   {
     "id": 2,
-    "name": "Tamim Iqbal",
+    "name": "Mashrafe Bin Mortuza",
     "team": "Fortune Barishal",
-    "category": "Batter",
+    "category": "Boller",
     "price": 11.5,
     "rating": 9.2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Tamim_Iqbal.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuL2BvBTivUmAfVRY5968lTePljE0AbgD0_ScuGTXGg&s=10"
   },
   {
     "id": 3,
