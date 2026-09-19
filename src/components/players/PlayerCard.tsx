@@ -95,7 +95,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
                         </h3>
                     </div>
 
-                    <button className="flex items-center gap-2 rounded-xl bg-orange-500 px-4 py-2.5 font-semibold text-white shadow-sm transition-all duration-300 hover:bg-orange-600 hover:shadow-md">
+                    <button className="flex items-center gap-2 rounded-xl bg-orange-500 px-3 py-2 font-semibold text-white shadow-sm transition-all duration-300 hover:bg-orange-600 hover:shadow-md">
                         <FaTrophy />
                         Choose Player
                     </button>
