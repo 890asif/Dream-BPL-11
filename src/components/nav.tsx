@@ -16,7 +16,7 @@ const Nav = () => {
             </ul>
 
             <div className='flex gap-3 items-center ml-auto bg-white px-4 py-2 rounded-2xl border border-gray-300 font-semibold'>
-                <h3>500  Coin</h3>
+                <h3>500 Coin</h3>
                 <FaCoins className='flex text-yellow-600 text-xl' />
         
             </div>

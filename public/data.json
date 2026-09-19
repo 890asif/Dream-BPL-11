@@ -6,16 +6,20 @@
     "category": "All-Rounder",
     "price": 12.5,
     "rating": 9.5,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhinc41VuhyXESyyt9hpn3-z25Q1DAIyASe8Cq4u2xQ&s=10"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAhinc41VuhyXESyyt9hpn3-z25Q1DAIyASe8Cq4u2xQ&s=10",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Orthodox"
   },
   {
     "id": 2,
     "name": "Mashrafe Bin Mortuza",
     "team": "Fortune Barishal",
-    "category": "Boller",
+    "category": "Bowler",
     "price": 11.5,
     "rating": 9.2,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuL2BvBTivUmAfVRY5968lTePljE0AbgD0_ScuGTXGg&s=10"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBuL2BvBTivUmAfVRY5968lTePljE0AbgD0_ScuGTXGg&s=10",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast-medium"
   },
   {
     "id": 3,
@@ -24,7 +28,9 @@
     "category": "Wicket-Keeper",
     "price": 11.0,
     "rating": 9.0,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mushfiqur_Rahim.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mushfiqur_Rahim.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 4,
@@ -33,7 +39,9 @@
     "category": "All-Rounder",
     "price": 10.5,
     "rating": 8.9,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mehidy_Hasan_Miraz.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Mehidy_Hasan_Miraz.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 5,
@@ -42,7 +50,9 @@
     "category": "All-Rounder",
     "price": 9.5,
     "rating": 8.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mahmudullah_Riyad.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mahmudullah_Riyad.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 6,
@@ -51,7 +61,9 @@
     "category": "Bowler",
     "price": 10.5,
     "rating": 8.8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mustafizur_Rahman.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mustafizur_Rahman.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Fast-medium"
   },
   {
     "id": 7,
@@ -60,7 +72,9 @@
     "category": "Wicket-Keeper",
     "price": 10.0,
     "rating": 8.7,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Litton_Das.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Litton_Das.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 8,
@@ -69,7 +83,9 @@
     "category": "Batter",
     "price": 8.5,
     "rating": 8.1,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Towhid_Hridoy.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Towhid_Hridoy.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 9,
@@ -78,7 +94,9 @@
     "category": "All-Rounder",
     "price": 8.0,
     "rating": 7.9,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rishad_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rishad_Hossain.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Leg-break"
   },
   {
     "id": 10,
@@ -87,7 +105,9 @@
     "category": "Bowler",
     "price": 9.5,
     "rating": 8.6,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taskin_Ahmed.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taskin_Ahmed.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast"
   },
   {
     "id": 11,
@@ -96,7 +116,9 @@
     "category": "Batter",
     "price": 9.0,
     "rating": 8.4,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Najmul_Hossain_Shanto.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Najmul_Hossain_Shanto.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 12,
@@ -105,7 +127,9 @@
     "category": "All-Rounder",
     "price": 8.0,
     "rating": 7.9,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Soumya_Sarkar.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Soumya_Sarkar.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Medium-fast"
   },
   {
     "id": 13,
@@ -114,7 +138,9 @@
     "category": "All-Rounder",
     "price": 7.5,
     "rating": 7.6,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mosaddek_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Mosaddek_Hossain.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 14,
@@ -123,7 +149,9 @@
     "category": "Bowler",
     "price": 7.0,
     "rating": 7.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nasum_Ahmed.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Nasum_Ahmed.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Slow Left-arm Orthodox"
   },
   {
     "id": 15,
@@ -132,7 +160,9 @@
     "category": "Bowler",
     "price": 8.5,
     "rating": 8.0,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shoriful_Islam.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Shoriful_Islam.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Medium-fast"
   },
   {
     "id": 16,
@@ -141,7 +171,9 @@
     "category": "Wicket-Keeper",
     "price": 8.0,
     "rating": 7.8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nurul_Hasan_Sohan.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nurul_Hasan_Sohan.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 17,
@@ -150,7 +182,9 @@
     "category": "All-Rounder",
     "price": 8.5,
     "rating": 8.0,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Afif_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Afif_Hossain.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 18,
@@ -159,7 +193,9 @@
     "category": "All-Rounder",
     "price": 8.5,
     "rating": 8.2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mahedi_Hasan.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mahedi_Hasan.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 19,
@@ -168,7 +204,9 @@
     "category": "Bowler",
     "price": 7.5,
     "rating": 7.7,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ebadot_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ebadot_Hossain.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast"
   },
   {
     "id": 20,
@@ -177,7 +215,9 @@
     "category": "Bowler",
     "price": 7.5,
     "rating": 7.8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hasan_Mahmud.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Hasan_Mahmud.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast-medium"
   },
   {
     "id": 21,
@@ -186,7 +226,9 @@
     "category": "Batter",
     "price": 7.0,
     "rating": 7.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Zakir_Hasan.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Zakir_Hasan.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 22,
@@ -195,7 +237,9 @@
     "category": "Batter",
     "price": 7.5,
     "rating": 7.8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanzid_Hasan_Tamim.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tanzid_Hasan_Tamim.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 23,
@@ -204,7 +248,9 @@
     "category": "Bowler",
     "price": 6.5,
     "rating": 7.2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rejaur_Rahman_Raja.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Rejaur_Rahman_Raja.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium-fast"
   },
   {
     "id": 24,
@@ -213,7 +259,9 @@
     "category": "Wicket-Keeper",
     "price": 7.0,
     "rating": 7.4,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jaker_Ali.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Jaker_Ali.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 25,
@@ -222,7 +270,9 @@
     "category": "Batter",
     "price": 7.5,
     "rating": 7.6,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Imrul_Kayes.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Imrul_Kayes.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 26,
@@ -231,7 +281,9 @@
     "category": "Wicket-Keeper",
     "price": 8.0,
     "rating": 7.8,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Anamul_Haque.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Anamul_Haque.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 27,
@@ -240,7 +292,9 @@
     "category": "All-Rounder",
     "price": 7.5,
     "rating": 7.5,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nasir_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nasir_Hossain.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Off-break"
   },
   {
     "id": 28,
@@ -249,7 +303,9 @@
     "category": "Bowler",
     "price": 7.0,
     "rating": 7.3,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rubel_Hossain.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Rubel_Hossain.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Fast"
   },
   {
     "id": 29,
@@ -258,7 +314,9 @@
     "category": "Batter",
     "price": 6.5,
     "rating": 7.2,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shanto_Islam.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Shanto_Islam.jpg",
+    "battingStyle": "Right-hand Bat",
+    "bowlingStyle": "Right-arm Medium"
   },
   {
     "id": 30,
@@ -267,6 +325,8 @@
     "category": "Bowler",
     "price": 6.0,
     "rating": 7.0,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nihaduzzaman.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Nihaduzzaman.jpg",
+    "battingStyle": "Left-hand Bat",
+    "bowlingStyle": "Left-arm Orthodox"
   }
 ]

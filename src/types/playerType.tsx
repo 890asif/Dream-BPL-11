@@ -6,4 +6,6 @@
   price: number;
   rating: number;
   image: string;
+  battingStyle:string;
+  bowlingStyle:string;
 };
