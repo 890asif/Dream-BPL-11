@@ -5,24 +5,27 @@ import { FaCoins } from "react-icons/fa";
 const Nav = () => {
     return (
          <nav className=' bg-gray-600'>
-           <div className='flex items-center justify-between max-w-7xl mx-auto px-6'>
-             <img src={Logo} alt="photo" className='w-25 ml-10'/>
+           <div className='max-w-7xl mx-auto px-4 sm:px-6 py-2'>
+            
+            <div className='flex items-center justify-between'>
+             <img src={Logo} alt="photo" className='w-20 sm:w-24 md:w-28'/>
 
-            <ul className='flex gap-6 items-center font-bold text-gray-300 ml-100'>
-                <li>Home</li>
-                <li>Fixture</li>
-                <li>Players</li>
-                <li>Schedule</li>
-            </ul>
+            <div className='hidden md:flex gap-5 lg:gap-8 items-center font-bold text-gray-300'>
+                <a className='hover:text-[#FF6900] transition' href="">Home</a>
+                <a className='hover:text-[#FF6900] transition' href="">Fixture</a>
+                <a className='hover:text-[#FF6900] transition' href="">Players</a>
+                <a className='hover:text-[#FF6900] transition' href="">Schedule</a>
+            </div>
 
-            <div className='flex gap-3 items-center ml-auto bg-white px-4 py-2 rounded-2xl border border-gray-300 font-semibold'>
+            <div className='flex gap-2 items-center  bg-white px-4 py-2 sm:px-4 rounded-2xl border border-gray-300 font-semibold text-sm sm:text-base'>
                 <h3>500 Coin</h3>
-                <FaCoins className='flex text-yellow-600 text-xl' />
+                <FaCoins className='text-yellow-600 text-lg sm:text-xl' />
         
             </div>
            </div>
-           
+           </div>
         </nav>
+           
     );
 };
 

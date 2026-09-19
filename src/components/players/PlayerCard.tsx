@@ -10,7 +10,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
         <div className="group overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-md transition-all duration-300 hover:-translate-y-2 hover:shadow-xl">
 
             {/* Player Image */}
-            <figure className="relative h-72 overflow-hidden bg-gray-100">
+            <figure className="relative h-72 overflow-hidden bg-gray-50">
                 <img
                     src={player.image}
                     alt={player.name}
@@ -19,13 +19,13 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
 
                 {/* Category */}
                 <div className="absolute right-3 top-3">
-                    <span className="rounded-full bg-white/90 px-3 py-1 text-sm font-semibold text-gray-700 shadow">
+                    <span className="rounded-full bg-[#FF6900] px-3 py-1 text-sm font-semibold text-white shadow">
                         {player.category}
                     </span>
                 </div>
 
                 {/* Rating */}
-                <div className="absolute bottom-3 left-3 flex items-center gap-1 rounded-full bg-black/70 px-3 py-1 text-white backdrop-blur-sm">
+                <div className="absolute bottom-3 left-3 flex items-center gap-1 rounded-full bg-gray-700 px-3 py-1 text-white backdrop-blur-sm">
                     <FaStar className="text-yellow-400" />
                     <span className="font-semibold">
                         {player.rating}
@@ -65,7 +65,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
                             BATTING
                         </p>
 
-                        <p className="mt-1 text-sm font-semibold text-gray-800">
+                        <p className="mt-1 text-sm font-semibold text-gray-700">
                             {player.battingStyle}
                         </p>
                     </div>
@@ -90,7 +90,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
                             PRICE
                         </p>
 
-                        <h3 className="text-2xl font-bold text-gray-900">
+                        <h3 className="text-2xl font-bold text-gray-800">
                             ${player.price}M
                         </h3>
                     </div>
