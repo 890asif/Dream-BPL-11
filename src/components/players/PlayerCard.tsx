@@ -52,7 +52,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
                             {player.team}
                         </p>
                     </div>
-
+    
                 </div>
 
                 <div className="divider my-1"></div>
@@ -62,7 +62,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
 
                     <div className="rounded-xl bg-gray-50 p-3">
                         <p className="text-xs font-medium text-gray-500">
-                            BATTING
+                            BATTING STYLE
                         </p>
 
                         <p className="mt-1 text-sm font-semibold text-gray-700">
@@ -72,7 +72,7 @@ const PlayerCard = ({ player }: PlayerCardProps) => {
 
                     <div className="rounded-xl bg-gray-50 p-3">
                         <p className="text-xs font-medium text-gray-500">
-                            BOWLING
+                            BOWLING STYLE
                         </p>
 
                         <p className="mt-1 text-sm font-semibold text-gray-800">
